@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #e8bd20;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -70,7 +70,7 @@ button:hover {
 }
 
 footer {
-    background-color: #333;
+    background-color: #f3a333;
     color: white;
     text-align: center;
     padding: 1rem;

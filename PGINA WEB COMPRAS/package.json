@@ -1,0 +1,15 @@
+{
+    "name": "mocha",
+    "version": "1.0.0",
+    "description": "This is the use of mocha to test",
+    "main": "main.js",
+    "scripts": {
+      "test": "mocha"
+    },
+    "keywords": [
+      "mocha"
+    ],
+    "author": "Mariluz",
+    "license": "ISC"
+  }
+  
